@@ -1,0 +1,1 @@
+print(check_hashed_password("majid12@",'$2b$12$lTiy.xjhvUE2hrdsocReouCFZKDe4PM2t9FXlvtoXtTLPQU3Zy5/S'))
